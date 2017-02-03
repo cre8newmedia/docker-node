@@ -1,2 +1,3 @@
 # docker-node
-Node base image
+
+Node base image that includes yarn.
