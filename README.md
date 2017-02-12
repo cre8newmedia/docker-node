@@ -40,4 +40,8 @@ Links:
 
 ## License
 
-MIT License
+This image is based on following components with related licenses:
+
+- View [node official image license](https://github.com/joyent/node/blob/master/LICENSE)
+- View [yarn license](https://github.com/yarnpkg/yarn/blob/master/LICENSE)
+- View [this repository source code license](https://github.com/cre8newmedia/docker-node/blob/master/LICENSE)
